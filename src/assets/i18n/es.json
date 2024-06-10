@@ -27,13 +27,12 @@
         "Title": "Fullstack developer",
         "Date": "2014 - Actualidad",
         "Description": [
-          "Lider en la toma de desiciones tecnicas",
-          "Contratación de talento tecnico para la empresa",
-          "Lider de quipo del departamento de tecnología",
-          "Creación y mantenimiento de una plataforma de gestion de procesos internos para ventas de cursos",
-          "Programación de funciones y plugins personalizados para personalizacion de una plataforma de wordpress",
-          "Implementación de integración continua y respaldos diarios.",
-          "Reuniones de planificación en informes."
+          "<a href='https://www.platohedro.org'>Platohedro</a>",
+          "<a href='https://artscollaboratory.com'>ArtsCollaboratory</a> ",
+          "<a href='https://www.wal2wal.io/'>Curating Commons Well Begin</a> ",
+          "<a href='https://www.wal2wal.io/'>Power To Commons</a> ",
+          "<a href='https://www.platoteca.platohedro.org'>Platoteca</a> "
+          
         ]
   },
       {
@@ -53,7 +52,7 @@
         "Title": "Independiente",
         "Date": "2024",
         "Description": [
-          "WVisita la web de <a href='https://www.wal2wal.io/'>Wal2Wal</a>"
+          "Visita la web de <a href='https://www.wal2wal.io/'>Wal2Wal</a>"
        ]
       },
       {
@@ -88,10 +87,11 @@
         ]
       },
       {
-        "Tab": "IEP",
-        "Title": "Profesor de Inglés",
-        "Date": "Enero 2015 - Julio 2015",
-        "Description": ["Enseñando ingles a nivel básico a una matrícula de más de 200 alumnos."]
+        "Tab": "Yupanasimi",
+        "Title": "FrondEnd Developer",
+        "Date": "2018 -2023",
+        "Description": ["<a href='https://yupanasimi.vercel.app/'>Yupanasimi</a> ",
+      "Yupana Simi es una herramienta para crear código en tiempo real, expresado en una sintaxis inspirada en la lengua quechua, que procesa sonoridades propias de los andes y gráficas contemporáneas de artesanos y artesanas de Sarhua, Acopía y Yanque."]
       }
     ],
 
@@ -100,7 +100,7 @@
     "FeatureProjects.Projects": [
       {
         "Title": "Noisk8",
-        "Description": "Aplicacion web para gestion interna de empresa que abarca departamento de ventas, cobranza y seguimiento muy extensa y compleja con diversas funciones hecha en <span class='underline'>Angular</span> y <span class='underline'>Laravel</span>. Trabaja con <span class='underline'>websockets</span>, <span class='underline'>schedules</span>, <span class='underline'>jobs de laravel</span>, integraciones con wordpress, zadarma, liveconnect, etc.",
+        "Description": "<span class='underline'>DJingr</span>  <span class='underline'>Livecoding</span> <span class='underline'>FrontEnd Dev</span>, <span class='underline'>schedules</span>, <span class='underline'>jobs de laravel</span>, integraciones con wordpress, zadarma, liveconnect, etc.",
         "imgs": [
             "assets/images/gisselle/Captura de pantalla 2024-05-19 1009582.png",
             "assets/images/gisselle/Captura de pantalla 2024-05-19 115514.png",
@@ -108,11 +108,12 @@
             "assets/images/gisselle/Captura de pantalla 2024-05-19 115829.png",
             "assets/images/gisselle/Captura de pantalla 2024-05-19 1009582.png"
         ],
-        "Technologies": ["Laravel", "Angular", "SASS", "Angular Material", "RxJS"]
+        "Technologies": ["Python", "VCV Rack", "FoxDot", "LMMS", "Yoshimi"]
     },
 
     {
       "Title": "El sueño de una pensión",
+      "demoLink": "https://proyectos.andresjosehr.com/pokemon-list",
       "Description": "Aplicación de monitoreo para consulta de datos, hecha con <span class='underline'>Angular</span> y <span class='underline'>Laravel</span>. Se aplica la libreria de graficos <span class='underline'>chart.js</span>",
       "imgs": [
           "assets/images/proyex2/6d7d8f04-f1f0-40c7-afbb-d2944cdb4d9c.png",
@@ -125,7 +126,8 @@
   },
 
     {
-      "Title": "Agrourbana",
+      "Title": "FoxDot en español",
+      "demoLink": "https://proyectos.andresjosehr.com/pokemon-list",
       "Description": "Aplicación de monitoreo realizada desde cero con módulo de auth, <span class='underline'>gráficos configurables</span>, <span class='underline'>alarmas configurables</span> y <span class='underline'>gestión de usuarios</span>. Cuenta también con lógica de formularios reactvios para la configuración de parámetros.",
       "imgs": [
           "assets/images/agrourbana/agrourbana1.png",
@@ -137,7 +139,8 @@
       "Technologies": ["Laravel", "Angular", "SASS", "Angular Material", "RxJS"]
   },
         {
-            "Title": "Tu super plan",
+            "Title": "Cypher Legacy",
+            "demoLink": "https://proyectos.andresjosehr.com/pokemon-list",
             "Description": "Cotizador de planes de salud que cuenta con un buscador con el que se hacen consultas avanzadas. Los planes son mostrados en base a la edad, ingreso mensual y ubicacion del usuario. Cuenta con <span class='underline'>chat en linea</span>, <span class='underline'>formulario de contacto</span>, <span class='underline'>sistema de notificaiones por whatsapp y correo</span>, <span class='underline'>auth</span>, y <span class='underline'>gestion de informacion internet a travez del rol de administrador</span>.",
             "imgs": [
                 "assets/images/tusuperplan/tusuperplan1.png",
@@ -149,8 +152,9 @@
             "Technologies": ["Laravel", "Angular", "SASS", "Angular Material", "RxJS"]
         },
         {
-            "Title": "Proyexiot",
-            "Description": "Plataforma de monitoreo de datos pertenecientes a pozos de agua, remolcadores y diversas instalaciones realizada desde cero con módulo de auth, <span class='underline'>gráficos configurables</span>, <span class='underline'>alarmas configurables</span>, <span class='underline'>gestión de usuarios</span> y <span class='underline'>geolocalizacion con openlayers.</span> Cuenta también con lógica de formularios reactivos para la configuración de parámetros.",
+            "Title": " Lab AI",
+            "demoLink": "https://lab-ai-seven.vercel.app/",
+            "Description": "Talleres de <span class='underline'>AI</span>,aplicada a imagen, con herramientas de código abierto",
             "imgs": [
                 "assets/images/proyex/proyex1.png",
                 "assets/images/proyex/proyex2.png",
