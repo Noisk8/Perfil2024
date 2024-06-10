@@ -23,7 +23,7 @@
     "Experience.Title": "Experiencia",
     "Experience.Jobs": [
       {
-        "Tab": "Global",
+        "Tab": "Platohedro",
         "Title": "Fullstack developer",
         "Date": "Mayo 2023",
         "Description": [
@@ -37,7 +37,7 @@
         ]
   },
       {
-            "Tab": "Proyex",
+            "Tab": "Web3Wasi",
             "Title": "Fullstack developer",
             "Date": "Diciembre 2019 - Mayo 2023",
             "Description": [
@@ -49,7 +49,7 @@
             ]
       },
       {
-        "Tab": "Freelancer",
+        "Tab": "wal2wal",
         "Title": "Independiente",
         "Date": "Mayo 2016 - Actualidad",
         "Description": [
@@ -60,7 +60,7 @@
         ]
       },
       {
-        "Tab": "Moebius",
+        "Tab": "SIndicato",
         "Title": "FullStack developer",
         "Date": "Julio 2017 - Octubre 2018",
         "Description": [
