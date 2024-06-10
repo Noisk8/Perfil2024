@@ -100,13 +100,17 @@
     "FeatureProjects.Projects": [
       {
         "Title": "Noisk8",
-        "Description": "<span class='underline'>DJingr</span>  <span class='underline'>Livecoding</span> <span class='underline'>FrontEnd Dev</span>, <span class='underline'>schedules</span>, <span class='underline'>jobs de laravel</span>, integraciones con wordpress, zadarma, liveconnect, etc.",
+        "Description": " <span class='underline'>Livecoding</span>  <span class='underline'>Livesets</span> Me gusta hacer música electronica con herramientas opensource, lá musica electronica no puede seguir siendo un espectro de elites ",
         "imgs": [
-            "assets/images/gisselle/Captura de pantalla 2024-05-19 1009582.png",
-            "assets/images/gisselle/Captura de pantalla 2024-05-19 115514.png",
-            "assets/images/gisselle/Captura de pantalla 2024-05-19 115702.png",
-            "assets/images/gisselle/Captura de pantalla 2024-05-19 115829.png",
-            "assets/images/gisselle/Captura de pantalla 2024-05-19 1009582.png"
+          
+            "assets/images/gisselle/2.jpg",
+            "assets/images/gisselle/3.jpg",
+            "assets/images/gisselle/4.jpg",
+            "assets/images/gisselle/5.jpg",
+            "assets/images/gisselle/6.jpg",
+            "assets/images/gisselle/7.jpg",
+            "assets/images/gisselle/8.jpg"
+          
         ],
         "Technologies": ["Python", "VCV Rack", "FoxDot", "LMMS", "Yoshimi"]
     },
@@ -126,7 +130,7 @@
   },
 
     {
-      "Title": "FoxDot en español",
+      "Title": "DAOariwas",
       "demoLink": "https://proyectos.andresjosehr.com/pokemon-list",
       "Description": "Aplicación de monitoreo realizada desde cero con módulo de auth, <span class='underline'>gráficos configurables</span>, <span class='underline'>alarmas configurables</span> y <span class='underline'>gestión de usuarios</span>. Cuenta también con lógica de formularios reactvios para la configuración de parámetros.",
       "imgs": [
