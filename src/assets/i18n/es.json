@@ -25,7 +25,7 @@
       {
         "Tab": "Platohedro",
         "Title": "Fullstack developer",
-        "Date": "Mayo 2023",
+        "Date": "2014 - Actualidad",
         "Description": [
           "Lider en la toma de desiciones tecnicas",
           "Contratación de talento tecnico para la empresa",
@@ -38,8 +38,8 @@
   },
       {
             "Tab": "Web3Wasi",
-            "Title": "Fullstack developer",
-            "Date": "Diciembre 2019 - Mayo 2023",
+            "Title": "FrontEnd developer",
+            "Date": "2023 - 2024",
             "Description": [
               "Creación y mantenimiento de una plataforma de monitoreo con gráficos en Wordpress.",
               "Programación funcional en plantillas y plugins para añadir las características necesarias de monitoreo.",
@@ -51,18 +51,15 @@
       {
         "Tab": "wal2wal",
         "Title": "Independiente",
-        "Date": "Mayo 2016 - Actualidad",
+        "Date": "2024",
         "Description": [
-          "Implementacion de mejoras continuas, trabajando en frontend y backend.",
-          "Creacion de plataformas con Angular, Laravel, Wordpress programadas con paradigmas de programación funcional, reactiva y orientada a objetos.",
-          "Automatizacion de procesos con estructuras de datos.",
-          "Maquetacion de diseños con SASS, Bootstrap, Materialize, Bulma, etc."
-        ]
+          "WVisita la web de <a href='https://www.wal2wal.io/'>Wal2Wal</a>"
+       ]
       },
       {
         "Tab": "SIndicato",
         "Title": "FullStack developer",
-        "Date": "Julio 2017 - Octubre 2018",
+        "Date": "2024",
         "Description": [
           "Liderando un equipo de 4 personas en el desarrollo de una plataforma de gestión de Datos de turismo hecha en Angular, Laravel y MySQL. ",
           "Implementacion de CI/CD en Azure. Refactorizando y optimizando tiempos de carga de la aplicación.",
@@ -72,9 +69,9 @@
         ]
       },
       {
-        "Tab": "TechLatam",
-        "Title": "Frontend developer",
-        "Date": "Febrero 2016 - Mayo 2017",
+        "Tab": "Nym",
+        "Title": "Administrador de sistemas",
+        "Date": "2023- Actualidad",
         "Description": [
           "Creación de plantillas de wordpress con ACF, programación funcional en Javascript / jQuery, estilos en SASS",
           "integración de mejoras en diseño y tiempos de carga de plantillas.",
@@ -82,9 +79,9 @@
         ]
       },
       {
-        "Tab": "CANTV",
-        "Title": "Analista de sistema",
-        "Date": "Noviembre 2015 - Diciembre 2016",
+        "Tab": "Carpeediem",
+        "Title": "FrontEnd",
+        "Date": "2020 - 2023 ",
         "Description": [
           "Programacion de nuevas funcionalidades para una plataforma de gestión de empleados existente realizada en Angular y ExpressJS",
           "Realizar refactorización de código antiguo. Asegurar la compatibilidad de cada dependencia en cada actualización, junto también con la actualización regular de Angular."
@@ -102,7 +99,7 @@
     "FeatureProjects.Label": "Proyecto Destacado",
     "FeatureProjects.Projects": [
       {
-        "Title": "Gisselle",
+        "Title": "Noisk8",
         "Description": "Aplicacion web para gestion interna de empresa que abarca departamento de ventas, cobranza y seguimiento muy extensa y compleja con diversas funciones hecha en <span class='underline'>Angular</span> y <span class='underline'>Laravel</span>. Trabaja con <span class='underline'>websockets</span>, <span class='underline'>schedules</span>, <span class='underline'>jobs de laravel</span>, integraciones con wordpress, zadarma, liveconnect, etc.",
         "imgs": [
             "assets/images/gisselle/Captura de pantalla 2024-05-19 1009582.png",
@@ -115,7 +112,7 @@
     },
 
     {
-      "Title": "Emelteciot",
+      "Title": "El sueño de una pensión",
       "Description": "Aplicación de monitoreo para consulta de datos, hecha con <span class='underline'>Angular</span> y <span class='underline'>Laravel</span>. Se aplica la libreria de graficos <span class='underline'>chart.js</span>",
       "imgs": [
           "assets/images/proyex2/6d7d8f04-f1f0-40c7-afbb-d2944cdb4d9c.png",
